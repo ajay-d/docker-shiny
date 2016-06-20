@@ -29,4 +29,4 @@ $ docker run -d -p 3838:3838 -v `path to your appdir`:/srv/shiny-server/ burrito
 ```
 ---
 
-Then visit: (http://localhost:3838/appdir/)
+Then visit: <http://localhost:3838/appdir/>
