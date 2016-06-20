@@ -2,7 +2,7 @@ Basic Shiny Server Image
 ======
 Lightweight shiny server image with a few R packages
 
-[Docker Hub Repo](https://hub.docker.com/r/burrito/shiny/) 
+[Docker Hub Repo](https://hub.docker.com/r/burrito/shiny/)  
 [Github Source](https://github.com/ajay-d/docker-shiny)
 
 Based off of:
