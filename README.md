@@ -8,7 +8,7 @@ Lightweight shiny server image with a few R packages
 Based off of:
 * Ubuntu 16.04 LTS
 * Shiny Server 1.4.2.786
-* R 3.3.0
+* R 3.3.1
    * dplyr 
    * devtools
    * ggplot2
