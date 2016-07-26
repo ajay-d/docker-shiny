@@ -20,6 +20,7 @@ Based off of:
    * shiny 
    * stringr
    * tidyr
+   * xml2
 
 
 To start a Shiny application:
