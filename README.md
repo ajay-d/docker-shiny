@@ -1,7 +1,7 @@
 Basic Shiny Server Image
 ======
 Lightweight shiny server image with a few R packages  
-Mostly from the Hadley [tidyverse] (https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/)  
+Mostly from the Hadley [tidyverse](https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/)  
 
 [Docker Hub Repo](https://hub.docker.com/r/burrito/shiny/)  
 [Github Source](https://github.com/ajay-d/docker-shiny)
