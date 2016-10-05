@@ -32,9 +32,9 @@ RUN su - -c "R -e \"install.packages(c( \
    'curl', \ 
    'DBI', \ 
    'dplyr', \
+   'foreach', \
    'ggplot2', \
    'ggvis', \
-   ‘foreach’, \
    'httr', \
    'jsonlite', \
    'lubridate', \
