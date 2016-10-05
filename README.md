@@ -14,6 +14,7 @@ Based off of:
    * DBI
    * dplyr 
    * devtools
+   * doMC
    * foreach
    * ggplot2
    * ggvis

@@ -32,6 +32,8 @@ RUN su - -c "R -e \"install.packages(c( \
    'curl', \ 
    'DBI', \ 
    'dplyr', \
+   'devtools', \
+   'doMC', \
    'foreach', \
    'ggplot2', \
    'ggvis', \
