@@ -34,6 +34,7 @@ RUN su - -c "R -e \"install.packages(c( \
    'dplyr', \
    'ggplot2', \
    'ggvis', \
+   ‘foreach’, \
    'httr', \
    'jsonlite', \
    'lubridate', \
