@@ -5,13 +5,13 @@ RUN apt-get upgrade -y && apt-get dist-upgrade
 
 RUN apt-get update && apt-get install -y \
     apt-transport-https \
-	build-essential \
-	gdebi-core \
+    build-essential \
+    gdebi-core \
     libcurl4-openssl-dev \
-	libssl-dev \
-	libssh2-1-dev \
-	r-base \
-	wget \
+    libssl-dev \
+    libssh2-1-dev \
+    r-base \
+    wget \
 && rm -rf /var/lib/apt/lists/*
 
 #Add new cran repo
