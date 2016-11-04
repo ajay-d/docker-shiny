@@ -8,8 +8,8 @@ Mostly from the Hadley [tidyverse](https://blog.rstudio.org/2016/09/15/tidyverse
 
 Based off of:
 * Ubuntu 16.04 LTS
-* Shiny Server 1.4.7.815
-* R 3.3.1
+* Shiny Server 1.5.0.831
+* R 3.3.2
    * curl
    * DBI
    * dplyr 

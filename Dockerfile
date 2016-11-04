@@ -49,13 +49,11 @@ RUN su - -c "R -e \"install.packages(c( \
    'xml2' \
 ), repos = 'http://cloud.r-project.org/')\""
 
-RUN wget https://download3.rstudio.org/ubuntu-12.04/x86_64/shiny-server-1.4.7.815-amd64.deb
-#RUN wget https://download3.rstudio.org/ubuntu-12.04/x86_64/shiny-server-1.5.0.730-amd64.deb
+RUN wget https://download3.rstudio.org/ubuntu-12.04/x86_64/shiny-server-1.5.0.831-amd64.deb
 
 #non-interactive mode
-RUN gdebi shiny-server-1.4.7.815-amd64.deb
+RUN gdebi shiny-server-1.5.0.831-amd64.deb
 
 WORKDIR /home/work
 RUN cat R --version
 RUN apt-cache showpkg shiny-server
-CMD shiny-server
