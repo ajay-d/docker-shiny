@@ -8,7 +8,7 @@ Mostly from the Hadley [tidyverse](https://blog.rstudio.org/2016/09/15/tidyverse
 
 Based off of:
 * Ubuntu 16.04 LTS
-* Shiny Server 1.5.0.831
+* Shiny Server 1.5.1.834
 * R 3.3.2
    * curl
    * DBI
