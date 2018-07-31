@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 MAINTAINER ajay@deonarine.com
 
 RUN apt-get upgrade -y && apt-get dist-upgrade
